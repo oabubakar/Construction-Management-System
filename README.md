@@ -1,4 +1,4 @@
-# UNV Project Assignment
+# Information Systems Assistant
 
 This repo contains the information on how to setup and run the project.
 
